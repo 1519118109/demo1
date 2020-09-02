@@ -4,3 +4,4 @@ this is third view
 this is four view
 this is branch
 this is branch1
+merge
