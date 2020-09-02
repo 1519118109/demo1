@@ -7,3 +7,4 @@ merge
 this is branch2
 clone  
 add key
+confict
